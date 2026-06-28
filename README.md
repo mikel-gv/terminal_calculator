@@ -29,4 +29,4 @@ A robust and simple console-based calculator designed to handle basic and advanc
 This project was developed as part of my initial Python learning path, focusing on control flow (while), exception handling, and functional organization.
 
 
-*"Feel free to contribute or suggest improvements!"*
+*Feel free to contribute or suggest improvements!*
