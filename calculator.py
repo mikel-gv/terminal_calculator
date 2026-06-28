@@ -40,8 +40,6 @@ while True:
     else:
         print('--- Next operation ---')
     
-
-
     # Get the data input from the user.
     num1_input = input('Enter first number (or "Exit" to quit): ')
     if num1_input.capitalize() == 'Exit':
