@@ -1,4 +1,4 @@
-# Python Console Calculator
+# Python Terminal Calculator
 
 A robust and simple console-based calculator designed to handle basic and advanced arithmetic operations without crashing.
 
