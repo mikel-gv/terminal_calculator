@@ -1,5 +1,6 @@
 # Python Terminal Calculator
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?style=flat&logo=python)    
+![License](https://img.shields.io/badge/License-MIT-blue?style=flat)
 A robust and simple console-based calculator designed to handle basic and advanced arithmetic operations without crashing.
 
 ## Features
@@ -30,5 +31,6 @@ A robust and simple console-based calculator designed to handle basic and advanc
 This project was developed as part of my initial Python learning path, focusing on control flow (while), exception handling, and functional organization.
 
 
-**Author: [@mikel-gv](github.com/mikel-gv)
+This project is licensed under the MIT License.
+**Author: [@mikel-gv](github.com/mikel-gv).
 *Feel free to contribute or suggest improvements!*
